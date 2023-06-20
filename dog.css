@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+p{
+  color: rgb(41, 243, 0);
+}
+
+nav{
+  border: 2px dotted darkblue;
+  width: 250px;
+  background-color: darkgoldenrod;
+}
